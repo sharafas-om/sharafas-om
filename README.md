@@ -4,9 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-sharafas-om/sharafas-om is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![oms's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharafas-om&theme=noctis-minimus)](https://github.com/sharafas-om/sharafas-om)
+[![Sharafas OM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sharafas-om&theme=react-dark&custom_title=Sharafas%20OM&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
